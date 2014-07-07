@@ -8,9 +8,11 @@ power\_set
  $ ruby power\_set.rb
 
 Input: 
+
  ほげ
 
 Output:
+
  {{},{ほ},{げ},{ほ,げ}}
 
 ## License
